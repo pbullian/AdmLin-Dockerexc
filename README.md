@@ -9,7 +9,7 @@
 3. Un desarrollador les dio acceso a un repositorio GIT para que creen una imagen de docker del software. https://github.com/glynnbird/Node.js-Web-Server
 
 - La aplicacion esta escrita en javascript y necesita de NodeJS
-- Para instalar hay que correr el comando `docker run` en la carpeta del repositorio
+- Para instalar hay que correr el comando `npm install` en la carpeta del repositorio
 - Para ejecturar la aplicacion hay que correr el comando `node apache.js`
 
 
